@@ -1,0 +1,8 @@
+{
+  "name": "reakit/utils/Provider",
+  "private": true,
+  "sideEffects": false,
+  "main": "../../lib/utils/Provider",
+  "module": "../../es/utils/Provider",
+  "types": "../../ts/utils/Provider"
+}

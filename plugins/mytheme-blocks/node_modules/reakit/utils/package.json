@@ -1,0 +1,8 @@
+{
+  "name": "reakit/utils",
+  "private": true,
+  "sideEffects": false,
+  "main": "../lib/utils",
+  "module": "../es/utils",
+  "types": "../ts/utils"
+}

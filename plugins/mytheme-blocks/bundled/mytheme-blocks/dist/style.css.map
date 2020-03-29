@@ -1,0 +1,1 @@
+{"version":3,"sources":["css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/src??ref--5-2!./node_modules/sass-loader/dist/cjs.js!./src/blocks/secondblock/style.scss"],"names":[],"mappings":"AAAA,qCAAqC,uBAAA","file":"style.css","sourcesContent":[".wp-block-mytheme-blocks-secondblock{background-color:purple}\n"]}

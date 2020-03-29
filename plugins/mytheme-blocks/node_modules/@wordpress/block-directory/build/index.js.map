@@ -1,0 +1,1 @@
+{"version":3,"sources":["@wordpress/block-directory/src/index.js"],"names":[],"mappings":";;AAGA;;AACA","sourcesContent":["/**\n * Internal dependencies\n */\nimport './store';\nimport './plugins';\n"]}
